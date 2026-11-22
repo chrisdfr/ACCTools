@@ -3,9 +3,8 @@
     "description": "Outils pour le jeux de course Assetto Corsa Competizione",
     "type": "project",
     "require": {
-        "php": "^8.2",
         "blackfox/framework": "^1.4",
-        "blackfox/digitalchaintest": "^1.0"
+        "chrisdfr/digitalchaintest": "^1.0"
     },
     "license": "MIT",
     "autoload": {
@@ -17,7 +16,7 @@
     "authors": [
         {
             "name": "Christophe Dufour",
-            "email": "blackfox@proximus.be"
+            "email": "chrisdfr@proximus.be"
         }
     ],
     "require-dev": {
