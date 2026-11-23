@@ -1,0 +1,16 @@
+{
+    "database": {
+        "api": "PDO",
+        "dbname": "",
+        "username": "",
+        "password": ""
+    },
+    "global": {
+        "installed": false
+    },
+    "backend": {
+        "admin": "admin",
+        "password": "$2y$12$YuYpD93nZ6d.RxpNWahlOu05Ef6nH7zdEy/ysfGxBh7kdusqBzn9O"
+    },
+    "frontend": []
+}
