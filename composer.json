@@ -6,7 +6,7 @@
         "blackfox/framework": "^1.4",
         "chrisdfr/digitalchaintest": "^1.0"
     },
-    "license": "MIT",
+    "license": "GPL-3.0-or-later",
     "autoload": {
         "psr-4": {
             "App\\": "src/App",
