@@ -1,5 +1,5 @@
 {
-    "name": "blackfox/acctools",
+    "name": "chrisdfr/acctools",
     "description": "Outils pour le jeux de course Assetto Corsa Competizione",
     "type": "project",
     "require": {
