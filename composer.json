@@ -1,6 +1,6 @@
 {
-    "name": "chrisdfr/acctools",
-    "description": "Outils pour le jeux de course Assetto Corsa Competizione",
+    "name": "chrisdfr/pitstopsimulator",
+    "description": "Outils pour les jeux de course automobile",
     "type": "project",
     "require": {
         "blackfox/framework": "^1.4",
